@@ -41,3 +41,4 @@ jspm_packages
 docker-compose.yaml
 /log
 /resources/products.json
+.vscode
