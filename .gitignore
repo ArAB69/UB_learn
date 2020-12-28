@@ -1,0 +1,5 @@
+## Ignored files
+
+docker-compose.yaml
+/log
+/resources/products.json
